@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Moises and I'm a papu, from Chile</h2>
+<h2 align="left">Hi 👋my name is Moises and I am a computer engineering student.</h2>
 
 ###
 
