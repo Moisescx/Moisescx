@@ -46,7 +46,9 @@ Me gusta aprender nuevas herramientas, participar en proyectos y seguir creciend
 
 ## *(English)*
 
-<h2 align="left">Hi 👋! My name is Moisés and I am a Computer Engineering student.</h2>
+<h1 align="center">Hi 👋! My name is Moisés Marín Avalos</h1>
+<h3 align="center">I am a Computer Engineering student | Passionate about technology and constant learning.</h3>
+
 
 ### About me
 I am currently training to become a developer, with interests in programming, databases, and modern technologies.  
