@@ -41,7 +41,7 @@ Me gusta aprender nuevas herramientas, participar en proyectos y seguir creciend
 <a href="mailto:moisesmarinavalos16@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
 </a>
-<a href="https://www.linkedin.com/in/moises-marín-avalos-2b677327a/" target="blank"><<img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/moises-marín-avalos-2b677327a/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40" /></a>
 </p>
 
 ---
