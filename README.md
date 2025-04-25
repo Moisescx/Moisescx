@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=6A5ACD&size=24&center=true&vCenter=true&lines=¡Hola!+Soy+Moisés+Marín+Avalos;Estudiante+de+Ingeniería+en+Informática;Apasionado+por+la+tecnología+y+el+aprendizaje" alt="Typing SVG" />
-</p>
+<h1 align="center">Hola 👋, soy Moisés Marín Avalos</h1>
+<h3 align="center">Estudiante de Ingeniería en Informática | Apasionado por la tecnología y el aprendizaje constante</h3>
+
 
 ###
 
