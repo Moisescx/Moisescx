@@ -38,7 +38,6 @@ Me gusta aprender nuevas herramientas, participar en proyectos y seguir creciend
 <p align="left">
   <a href="https://www.instagram.com/moisecx_/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" /></a>
   <a href="https://discordapp.com/users/1093246813135454299" target="blank"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png" width="40" /></a>
-  <a href="mailto:moisesmarinavalos16@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="40" /></a>
 <a href="https://www.linkedin.com/in/moises-marín-avalos-2b677327a/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40" /></a>
 </p>
 
@@ -76,7 +75,6 @@ I enjoy learning new tools, participating in projects, and improving every day.
 <p align="left">
   <a href="https://www.instagram.com/moisecx_/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" /></a>
   <a href="https://discordapp.com/users/1093246813135454299" target="blank"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png" width="40" /></a>
-  <a href="mailto:moisesmarinavalos16@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="40" /></a>
  <a href="https://www.linkedin.com/in/moises-marín-avalos-2b677327a/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40" /></a>
 </p>
 
