@@ -1,4 +1,6 @@
-<h2 align="left">¡Hola 👋! Mi nombre es Moisés y soy estudiante de Ingeniería en Informática.</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=6A5ACD&size=24&center=true&vCenter=true&lines=¡Hola!+Soy+Moisés+Marín+Avalos;Estudiante+de+Ingeniería+en+Informática;Apasionado+por+la+tecnología+y+el+aprendizaje" alt="Typing SVG" />
+</p>
 
 ###
 
@@ -12,7 +14,7 @@ Me gusta aprender nuevas herramientas, participar en proyectos y seguir creciend
 
 ###
 
-### Tecnologías que estoy aprendiendo
+### Tecnologías que estoy aprendiendo (Medio)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
@@ -21,27 +23,24 @@ Me gusta aprender nuevas herramientas, participar en proyectos y seguir creciend
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo" />
+</div>
+
+### 🖥️ Herramientas
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="Visual Studio" />
 </div>
 
 ###
 
 ### Contacto
 
-<div align="left">
-  <a href="https://www.instagram.com/moisecx_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
-  </a>
-  <a href="https://discordapp.com/users/1093246813135454299" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" />
-  </a>
-  <a href="mailto:moisesmarinavalos16@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/moises-marín-avalos-2b677327a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
-  </a>
-</div>
+<p align="left">
+  <a href="https://www.instagram.com/moisecx_/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" /></a>
+  <a href="https://discordapp.com/users/1093246813135454299" target="blank"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png" width="40" /></a>
+  <a href="mailto:moisesmarinavalos16@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="40" /></a>
+  <a href="https://www.linkedin.com/in/moises-marín-avalos-2b677327a/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40" /></a>
+</p>
 
 ---
 
@@ -53,7 +52,7 @@ Me gusta aprender nuevas herramientas, participar en proyectos y seguir creciend
 I am currently training to become a developer, with interests in programming, databases, and modern technologies.  
 I enjoy learning new tools, participating in projects, and improving every day.
 
-### Technologies I'm learning
+### Technologies I'm learning (Midle)
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
@@ -62,24 +61,26 @@ I enjoy learning new tools, participating in projects, and improving every day.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo" />
 </div>
-### Contact
+
+### 🖥️ Tools
 
 <div align="left">
-  <a href="https://www.instagram.com/moisecx_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
-  </a>
-  <a href="https://discordapp.com/users/1093246813135454299" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo" />
-  </a>
-  <a href="mailto:moisesmarinavalos16@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/moises-marín-avalos-2b677327a/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="Visual Studio" />
 </div>
+
+### Contact
+
+<p align="left">
+  <a href="https://www.instagram.com/moisecx_/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" width="40" /></a>
+  <a href="https://discordapp.com/users/1093246813135454299" target="blank"><img src="https://img.icons8.com/fluency/48/000000/discord-logo.png" width="40" /></a>
+  <a href="mailto:moisesmarinavalos16@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" width="40" /></a>
+  <a href="https://www.linkedin.com/in/moises-marín-avalos-2b677327a/" target="blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Moisescx&label=Profile+views&color=6A5ACD&style=flat" alt="Moisescx" />
+</p>
 
 
 ###
