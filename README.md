@@ -28,7 +28,7 @@ Me gusta aprender nuevas herramientas, participar en proyectos y seguir creciend
 ### 🖥️ Herramientas
 
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40"/>
 </div>
 
 ###
