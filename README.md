@@ -28,7 +28,7 @@ Me gusta aprender nuevas herramientas, participar en proyectos y seguir creciend
 ### 🖥️ Herramientas
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="Visual Studio" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </div>
 
 ###
